@@ -1,5 +1,7 @@
 # FunPayAPI Kotlin
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.p0mid00r/funpayapi)](https://central.sonatype.com/artifact/io.github.p0mid00r/funpayapi)
+
 Coroutine-first JVM port of the FunPay API client. It uses **Ktorfit** for typed HTTP declarations, **Ktor** for the client and multipart uploads, and **Ksoup** for FunPay HTML parsing.
 
 ## Documentation
